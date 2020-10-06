@@ -1,0 +1,216 @@
+gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,workex,etest_p,specialisation,mba_p,Overall_avg ,status,salary
+M,67,Others,91,Others,2,58,2,No,55,1,58.8,65.96,Placed,270000
+M,79.33,Central,78.33,Others,3,77.48,2,Yes,86.5,2,66.28,77.584,Placed,200000
+M,65,Central,68,Central,1,64,1,No,75,2,57.8,65.96,Placed,250000
+M,56,Central,52,Central,3,52,2,No,66,1,59.43,57.086,Not Placed,
+M,85.8,Central,73.6,Central,2,73.3,1,No,96.8,2,55.5,77,Placed,425000
+M,55,Others,49.8,Others,3,67.25,2,Yes,55,2,51.58,55.726,Not Placed,
+F,46,Others,49.2,Others,2,79,1,No,74.28,2,53.29,60.354,Not Placed,
+M,82,Central,64,Central,3,66,2,Yes,67,2,62.14,68.228,Placed,252000
+M,73,Central,79,Central,2,72,1,No,91.34,2,61.29,75.326,Placed,231000
+M,58,Central,70,Central,2,61,1,No,54,2,52.21,59.042,Not Placed,
+M,58,Central,61,Central,2,60,1,Yes,62,1,60.85,60.37,Placed,260000
+M,69.6,Central,68.4,Central,2,78.3,1,Yes,60,2,63.7,68,Placed,250000
+F,47,Central,55,Others,3,65,1,No,62,1,65.04,58.808,Not Placed,
+F,77,Central,87,Central,2,59,1,No,68,2,68.63,71.926,Placed,218000
+M,62,Central,47,Central,2,50,1,No,76,1,54.96,57.992,Not Placed,
+F,65,Central,75,Central,2,69,1,Yes,72,2,64.66,69.132,Placed,200000
+M,63,Central,66.2,Central,2,65.6,1,Yes,60,2,62.54,63.468,Placed,300000
+F,55,Central,67,Central,2,64,1,No,60,2,67.28,62.656,Not Placed,
+F,63,Central,66,Central,2,64,1,No,68,1,64.08,65.016,Not Placed,
+M,60,Others,67,Others,1,70,1,Yes,50.48,2,77.89,65.074,Placed,236000
+M,62,Others,65,Others,2,66,1,No,50,1,56.7,59.94,Placed,265000
+F,79,Others,76,Others,2,85,1,No,95,2,69.06,80.812,Placed,393000
+F,69.8,Others,60.8,Others,3,72.23,2,No,55.53,1,68.81,65.434,Placed,360000
+F,77.4,Others,60,Others,3,64.74,2,Yes,92,2,63.62,71.552,Placed,300000
+M,76.5,Others,97.7,Others,3,78.86,2,No,97.4,2,74.01,84.894,Placed,360000
+F,52.58,Others,54.6,Central,2,50.2,1,Yes,76,2,65.33,59.742,Not Placed,
+M,71,Others,79,Others,2,66,1,Yes,94,2,57.55,73.51,Placed,240000
+M,63,Others,67,Others,2,66,1,No,68,1,57.69,64.338,Placed,265000
+M,76.76,Others,76.5,Others,2,67.5,1,Yes,73.35,2,64.15,71.652,Placed,350000
+M,62,Central,67,Central,2,58,1,No,77,2,51.29,63.058,Not Placed,
+F,64,Central,73.5,Central,2,73,1,No,52,1,56.7,63.84,Placed,250000
+F,67,Central,53,Central,3,65,2,No,64,1,58.32,61.464,Not Placed,
+F,61,Central,81,Central,2,66.4,1,No,50.89,1,62.21,64.3,Placed,278000
+F,87,Others,65,Others,3,81,1,Yes,88,2,72.78,78.756,Placed,260000
+M,62,Others,51,Others,3,52,3,No,68.44,1,62.77,59.242,Not Placed,
+F,69,Central,78,Central,2,72,1,No,71,1,62.74,70.548,Placed,300000
+M,51,Central,44,Central,2,57,1,No,64,2,51.45,53.49,Not Placed,
+F,79,Central,76,Central,3,65.6,2,No,58,1,55.47,66.814,Placed,320000
+F,73,Others,58,Others,3,66,1,No,53.7,1,56.86,61.512,Placed,240000
+M,81,Others,68,Others,3,64,2,No,93,2,62.56,73.712,Placed,411000
+F,78,Central,77,Others,2,80,1,No,60,2,66.72,72.344,Placed,287000
+F,74,Others,63.16,Others,2,65,1,Yes,65,1,69.76,67.384,Not Placed,
+M,49,Others,39,Central,3,65,3,No,63,2,51.21,53.442,Not Placed,
+M,87,Others,87,Others,2,68,1,No,95,1,62.9,79.98,Placed,300000
+F,77,Others,73,Others,2,81,1,Yes,89,2,69.7,77.94,Placed,200000
+F,76,Central,64,Central,3,72,2,No,58,1,66.53,67.306,Not Placed,
+F,70.89,Others,71.98,Others,3,65.6,1,No,68,1,71.63,69.62,Not Placed,
+M,63,Central,60,Central,2,57,1,Yes,78,2,54.55,62.51,Placed,204000
+M,63,Others,62,Others,2,68,1,No,64,2,62.46,63.892,Placed,250000
+F,50,Others,37,Others,1,52,3,No,65,1,56.11,52.022,Not Placed,
+F,75.2,Central,73.2,Central,3,68.4,1,No,65,1,62.98,68.956,Placed,200000
+M,54.4,Central,61.12,Central,2,56.2,1,No,67,1,62.65,60.274,Not Placed,
+F,40.89,Others,45.83,Others,2,53,1,No,71.2,1,65.49,55.282,Not Placed,
+M,80,Others,70,Others,3,72,2,No,87,1,71.04,76.008,Placed,450000
+F,74,Central,60,Others,3,69,1,No,78,1,65.56,69.312,Placed,216000
+M,60.4,Central,66.6,Others,3,65,1,No,71,1,52.71,63.142,Placed,220000
+M,63,Others,71.4,Others,2,61.4,1,No,68,2,66.88,66.136,Placed,240000
+M,68,Central,76,Central,2,74,1,No,80,2,63.59,72.318,Placed,360000
+M,74,Central,62,Others,3,68,1,No,74,2,57.99,67.198,Placed,268000
+M,52.6,Central,65.58,Others,3,72.11,2,No,57.6,2,56.66,60.91,Placed,265000
+M,74,Central,70,Central,3,72,1,Yes,60,2,57.24,66.648,Placed,260000
+M,84.2,Central,73.4,Central,2,66.89,1,No,61.6,2,62.48,69.714,Placed,300000
+F,86.5,Others,64.2,Others,3,67.4,2,No,59,2,59.69,67.358,Placed,240000
+M,61,Others,70,Others,2,64,1,No,68.5,1,59.5,64.6,Not Placed,
+M,80,Others,73,Others,2,75,1,No,61,2,58.78,69.556,Placed,240000
+M,54,Others,47,Others,3,57,1,No,89.69,1,57.1,60.958,Not Placed,
+M,83,Others,74,Others,3,66,1,No,68.92,1,58.46,70.076,Placed,275000
+M,80.92,Others,78.5,Others,2,67,1,No,68.71,2,60.99,71.224,Placed,275000
+F,69.7,Central,47,Central,2,72.7,2,No,79,1,59.24,65.528,Not Placed,
+M,73,Central,73,Central,3,66,2,Yes,70,2,68.07,70.014,Placed,275000
+M,82,Others,61,Others,3,62,2,No,89,2,65.45,71.89,Placed,360000
+M,75,Others,70.29,Others,2,71,1,No,95,2,66.94,75.646,Placed,240000
+M,84.86,Others,67,Others,3,78,1,No,95.5,2,68.53,78.778,Placed,240000
+M,64.6,Central,83.83,Others,2,71.72,1,No,86,2,59.75,73.18,Placed,218000
+M,56.6,Central,64.8,Central,2,70.2,1,No,84.27,2,67.2,68.614,Placed,336000
+F,59,Central,62,Others,2,77.5,1,No,74,1,67,67.9,Not Placed,
+F,66.5,Others,70.4,Central,1,71.93,1,No,61,2,64.27,66.82,Placed,230000
+M,64,Others,80,Others,3,65,2,Yes,69,2,57.65,67.13,Placed,500000
+M,84,Others,90.9,Others,3,64.5,2,No,86.04,2,59.42,76.972,Placed,270000
+F,69,Central,62,Central,3,66,2,No,75,1,67.99,67.998,Not Placed,
+F,69,Others,62,Others,2,69,1,Yes,67,1,62.35,65.87,Placed,240000
+M,81.7,Others,63,Others,3,67,1,Yes,86,2,70.2,73.58,Placed,300000
+M,63,Central,67,Central,2,74,1,No,82,2,60.44,69.288,Not Placed,
+M,84,Others,79,Others,3,68,2,Yes,84,2,66.69,76.338,Placed,300000
+M,70,Central,63,Others,3,70,2,Yes,55,2,62,64,Placed,300000
+F,83.84,Others,89.83,Others,2,77.2,1,Yes,78.74,2,76.18,81.158,Placed,400000
+M,62,Others,63,Others,2,64,1,No,67,2,57.03,62.606,Placed,220000
+M,59.6,Central,51,Central,3,60,3,No,75,1,59.08,60.936,Not Placed,
+F,66,Central,62,Central,2,73,1,No,58,1,64.36,64.672,Placed,210000
+F,84,Others,75,Others,3,69,2,Yes,62,1,62.36,70.472,Placed,210000
+F,85,Others,90,Others,2,82,1,No,92,2,68.03,83.406,Placed,300000
+M,52,Central,57,Central,2,50.8,1,No,67,1,62.79,57.918,Not Placed,
+F,60.23,Central,69,Central,3,66,1,No,72,2,59.47,65.34,Placed,230000
+M,52,Central,62,Central,2,54,1,No,72,1,55.41,59.082,Not Placed,
+M,58,Central,62,Central,2,64,1,No,53.88,2,54.97,58.57,Placed,260000
+M,73,Central,78,Others,2,65,1,Yes,95.46,2,62.16,74.724,Placed,420000
+F,76,Central,70,Central,3,76,1,Yes,66,2,64.44,70.488,Placed,300000
+F,70.5,Central,62.5,Others,2,61,1,No,93.91,2,69.03,71.388,Not Placed,
+F,69,Central,73,Central,2,65,1,No,70,2,57.31,66.862,Placed,220000
+M,54,Central,82,Others,2,63,2,No,50,2,59.47,61.694,Not Placed,
+F,45,Others,57,Others,2,58,1,Yes,56.39,1,64.95,56.268,Not Placed,
+M,63,Central,72,Central,2,68,1,No,78,1,60.44,68.288,Placed,380000
+F,77,Others,61,Others,2,68,1,Yes,57.5,2,61.31,64.962,Placed,300000
+M,73,Central,78,Central,3,73,2,Yes,85,1,65.83,74.966,Placed,240000
+M,69,Central,63,Others,3,65,1,Yes,55,1,58.23,62.046,Placed,360000
+M,59,Central,64,Others,3,58,2,No,85,1,55.3,64.26,Not Placed,
+M,61.08,Others,50,Others,3,54,2,No,71,2,65.69,60.354,Not Placed,
+M,82,Others,90,Others,2,83,1,No,80,1,73.52,81.704,Placed,200000
+M,61,Central,82,Central,2,69,1,No,84,2,58.31,70.862,Placed,300000
+M,52,Central,63,Others,3,65,2,Yes,86,1,56.09,64.418,Not Placed,
+F,69.5,Central,70,Central,3,72,2,No,57.2,1,54.8,64.7,Placed,250000
+M,51,Others,54,Others,3,61,2,No,60,1,60.64,57.328,Not Placed,
+M,58,Others,61,Others,2,61,1,No,58,1,53.94,58.388,Placed,250000
+F,73.96,Others,79,Others,2,67,1,No,72.15,2,63.08,71.038,Placed,280000
+M,65,Central,68,Others,3,69,1,No,53.7,1,55.01,62.142,Placed,250000
+F,73,Others,63,Others,3,66,1,No,89,2,60.5,70.3,Placed,216000
+M,68.2,Central,72.8,Central,2,66.6,1,Yes,96,2,70.85,74.89,Placed,300000
+M,77,Others,75,Others,3,73,2,No,80,2,67.05,74.41,Placed,240000
+M,76,Central,80,Central,3,78,2,Yes,97,1,70.48,80.296,Placed,276000
+M,60.8,Central,68.4,Central,2,64.6,1,Yes,82.66,2,64.34,68.16,Placed,940000
+M,58,Others,40,Others,3,59,1,No,73,1,58.81,57.762,Not Placed,
+F,64,Central,67,Others,3,69.6,2,Yes,55.67,1,71.49,65.552,Placed,250000
+F,66.5,Central,66.8,Central,1,69.3,1,Yes,80.4,2,71,70.8,Placed,236000
+M,74,Others,59,Others,2,73,1,Yes,60,1,56.7,64.54,Placed,240000
+M,67,Central,71,Central,3,64.33,3,Yes,64,1,61.26,65.518,Placed,250000
+F,84,Central,73,Central,2,73,1,No,75,2,73.33,75.666,Placed,350000
+F,79,Others,61,Others,3,75.5,2,Yes,70,2,68.2,70.74,Placed,210000
+F,72,Others,60,Others,3,69,1,No,55.5,1,58.4,62.98,Placed,250000
+M,80.4,Central,73.4,Central,3,77.72,2,Yes,81.2,1,76.26,77.796,Placed,400000
+M,76.7,Central,89.7,Others,2,66,1,Yes,90,2,68.55,78.19,Placed,250000
+M,62,Central,65,Others,2,60,1,No,84,2,64.15,67.03,Not Placed,
+F,74.9,Others,57,Others,3,62,3,Yes,80,2,60.78,66.936,Placed,360000
+M,67,Others,68,Others,2,64,1,Yes,74.4,1,53.49,65.378,Placed,300000
+M,73,Central,64,Others,2,77,1,Yes,65,1,60.98,67.996,Placed,250000
+F,77.44,Central,92,Others,2,72,1,Yes,94,2,67.13,80.514,Placed,250000
+F,72,Central,56,Others,3,69,1,No,55.6,1,65.63,63.646,Placed,200000
+F,47,Central,59,Central,1,64,1,No,78,2,61.58,61.916,Not Placed,
+M,67,Others,63,Central,2,72,1,No,56,1,60.41,63.682,Placed,225000
+F,82,Others,64,Others,3,73,2,Yes,96,2,71.77,77.354,Placed,250000
+M,77,Central,70,Central,2,59,1,Yes,58,2,54.43,63.686,Placed,220000
+M,65,Central,64.8,Others,2,69.5,1,Yes,56,2,56.94,62.448,Placed,265000
+M,66,Central,64,Central,3,60,1,No,60,1,61.9,62.38,Not Placed,
+M,85,Central,60,Others,3,73.43,2,Yes,60,2,61.29,67.944,Placed,260000
+M,77.67,Others,64.89,Others,2,70.67,1,No,89,2,60.39,72.524,Placed,300000
+M,52,Others,50,Others,1,61,1,No,60,2,58.52,56.304,Not Placed,
+M,89.4,Others,65.66,Others,3,71.25,2,No,72,1,63.23,72.308,Placed,400000
+M,62,Central,63,Others,3,66,1,No,85,1,55.14,66.228,Placed,233000
+M,70,Central,74,Central,2,65,1,No,83,2,62.28,70.856,Placed,300000
+F,77,Central,86,Central,1,56,3,No,57,2,64.08,68.016,Placed,240000
+M,44,Central,58,Central,1,55,1,Yes,64.25,1,58.54,55.958,Not Placed,
+M,71,Central,58.66,Central,3,58,2,Yes,56,2,61.3,60.992,Placed,690000
+M,65,Central,65,Central,2,75,1,No,83,2,58.87,69.374,Placed,270000
+F,75.4,Others,60.5,Central,3,84,2,No,98,2,65.25,76.63,Placed,240000
+M,49,Others,59,Others,3,65,2,Yes,86,2,62.48,64.296,Placed,340000
+M,53,Central,63,Others,3,60,1,Yes,70,2,53.2,59.84,Placed,250000
+M,51.57,Others,74.66,Others,2,59.9,1,Yes,56.15,1,65.99,61.654,Not Placed,
+M,84.2,Central,69.4,Central,3,65,2,Yes,80,1,52.72,70.264,Placed,255000
+M,66.5,Central,62.5,Central,2,60.9,1,No,93.4,2,55.03,67.666,Placed,300000
+M,67,Others,63,Others,3,64,2,No,60,2,61.87,63.174,Not Placed,
+M,52,Central,49,Others,2,58,1,No,62,1,60.59,56.318,Not Placed,
+M,87,Central,74,Central,3,65,2,Yes,75,1,72.29,74.658,Placed,300000
+M,55.6,Others,51,Others,2,57.5,1,No,57.63,1,62.72,56.89,Not Placed,
+M,74.2,Central,87.6,Others,2,77.25,1,Yes,75.2,2,66.06,76.062,Placed,285000
+M,63,Others,67,Others,3,64,2,No,75,2,66.46,67.092,Placed,500000
+F,67.16,Central,72.5,Central,2,63.35,1,No,53.04,2,65.52,64.314,Placed,250000
+F,63.3,Central,78.33,Others,2,74,1,No,80,2,74.56,74.038,Not Placed,
+M,62,Others,62,Others,2,60,1,Yes,63,1,52.38,59.876,Placed,240000
+M,67.9,Others,62,Others,3,67,2,Yes,58.1,2,75.71,66.142,Not Placed,
+F,48,Central,51,Central,2,58,1,Yes,60,1,58.79,55.158,Not Placed,
+M,59.96,Others,42.16,Others,3,61.26,2,No,54.48,1,65.48,56.668,Not Placed,
+F,63.4,Others,67.2,Others,2,60,1,No,58.06,1,69.28,63.588,Not Placed,
+M,80,Others,80,Others,2,72,1,Yes,63.79,2,66.04,72.366,Placed,290000
+M,73,Others,58,Others,2,56,1,No,84,1,52.64,64.728,Placed,300000
+F,52,Others,52,Others,3,55,2,No,67,1,59.32,57.064,Not Placed,
+M,73.24,Others,50.83,Others,3,64.27,2,Yes,64,2,66.23,63.714,Placed,500000
+M,63,Others,62,Others,3,65,2,No,87.5,1,60.69,67.638,Not Placed,
+F,59,Central,60,Others,2,56,1,No,55,1,57.9,57.58,Placed,220000
+F,73,Central,97,Others,2,79,1,Yes,89,2,70.81,81.762,Placed,650000
+M,68,Others,56,Others,3,68,2,No,73,1,68.07,66.614,Placed,350000
+F,77.8,Central,64,Central,3,64.2,2,No,75.5,1,72.14,70.728,Not Placed,
+M,65,Central,71.5,Others,2,62.8,1,Yes,57,2,56.6,62.58,Placed,265000
+M,62,Central,60.33,Others,3,64.21,2,No,63,1,60.02,61.912,Not Placed,
+M,52,Others,65,Others,1,57,3,Yes,75,2,59.81,61.762,Not Placed,
+M,65,Central,77,Central,2,69,1,No,60,1,61.82,66.564,Placed,276000
+F,56.28,Others,62.83,Others,2,59.79,1,No,60,1,57.29,59.238,Not Placed,
+F,88,Central,72,Central,3,78,3,No,82,1,71.43,78.286,Placed,252000
+F,52,Central,64,Central,2,61,1,No,55,2,62.93,58.986,Not Placed,
+M,78.5,Central,65.5,Central,3,67,2,Yes,95,2,64.86,74.172,Placed,280000
+M,61.8,Others,47,Others,2,54.38,1,No,57,2,56.13,55.262,Not Placed,
+F,54,Central,77.6,Others,2,69.2,1,No,95.65,2,66.94,72.678,Not Placed,
+F,64,Others,70.2,Central,2,61,1,No,50,2,62.5,61.54,Not Placed,
+M,67,Others,61,Central,3,72,1,No,72,2,61.01,66.602,Placed,264000
+M,65.2,Central,61.4,Central,2,64.8,1,Yes,93.4,2,57.34,68.428,Placed,270000
+F,60,Central,63,Central,1,56,3,Yes,80,1,56.63,63.126,Placed,300000
+M,52,Others,55,Others,2,56.3,1,No,59,2,64.74,57.408,Not Placed,
+M,66,Central,76,Central,2,72,1,Yes,84,1,58.95,71.39,Placed,275000
+M,72,Others,63,Others,3,77.5,2,Yes,78,2,54.48,68.996,Placed,250000
+F,83.96,Others,53,Others,3,91,2,No,59.32,1,69.71,71.398,Placed,260000
+F,67,Central,70,Central,2,65,3,No,88,1,71.96,72.392,Not Placed,
+M,69,Others,65,Others,2,57,1,No,73,1,55.8,63.96,Placed,265000
+M,69,Others,60,Others,2,65,1,No,87.55,2,52.81,66.872,Placed,300000
+M,54.2,Central,63,Others,3,58,1,No,79,1,58.44,62.528,Not Placed,
+M,70,Central,63,Central,3,66,2,No,61.28,1,60.11,64.078,Placed,240000
+M,55.68,Others,61.33,Others,2,56.87,1,No,66,1,58.3,59.636,Placed,260000
+F,74,Others,73,Others,2,73,1,Yes,80,2,67.69,73.538,Placed,210000
+M,61,Others,62,Others,2,65,1,No,62,2,56.81,61.362,Placed,250000
+M,41,Central,42,Central,3,60,1,No,97,2,53.39,58.678,Not Placed,
+M,83.33,Central,78,Others,2,61,1,Yes,88.56,2,71.55,76.488,Placed,300000
+F,43,Central,60,Others,3,65,1,No,92.66,1,62.92,64.716,Not Placed,
+M,62,Central,72,Central,2,65,1,No,67,2,56.49,64.498,Placed,216000
+M,80.6,Others,82,Others,2,77.6,1,No,91,2,74.49,81.138,Placed,400000
+M,58,Others,60,Others,3,72,2,No,74,2,53.62,63.524,Placed,275000
+M,67,Others,67,Others,2,73,1,Yes,59,2,69.72,67.144,Placed,295000
+F,74,Others,66,Others,2,58,1,No,70,1,60.23,65.646,Placed,204000
+M,62,Central,58,Others,3,53,1,No,89,1,60.22,64.444,Not Placed,
